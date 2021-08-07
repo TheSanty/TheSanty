@@ -8,6 +8,7 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheSanty&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-<p align="center">
+<h1 align="center">
+	
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
-</p>
+</h1>
